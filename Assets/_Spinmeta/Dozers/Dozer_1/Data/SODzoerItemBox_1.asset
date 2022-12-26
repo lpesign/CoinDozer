@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94405b8462fd14578a6d47977e0ffd7a, type: 3}
+  m_Name: SODzoerItemBox_1
+  m_EditorClassIdentifier: 
+  items:
+  - type: 0
+    weight: 70
+    poolSize: 50
+    prefab: {fileID: 3263618973646605160, guid: 548b54dbd8bec46299f4574357d804f0,
+      type: 3}
+  - type: 1
+    weight: 15
+    poolSize: 10
+    prefab: {fileID: 3263618973646605160, guid: ab376671c835a4228b05d41c034bc893,
+      type: 3}
+  - type: 2
+    weight: 5
+    poolSize: 10
+    prefab: {fileID: 3263618973646605160, guid: 8f4f56392578e4c29b0091c858b93716,
+      type: 3}
