@@ -1,0 +1,3 @@
+[submodule "Assets/UnityLib"]
+	path = Assets/UnityLib
+	url = https://github.com/smashkeyboards/UnityLib.git
